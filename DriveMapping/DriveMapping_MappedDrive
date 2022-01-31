@@ -1,0 +1,6 @@
+OMA-URI = ./user/Vendor/MSFT/Policy/Config/DriveMapping~Policy~DriveMapping/Drive_Q
+
+Data Type = String
+
+Value = <enabled/>
+<data id="Drive_Q_RemotePath" value="\\MyFileServer\MyFileShare"/>
